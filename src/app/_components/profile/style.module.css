@@ -1,0 +1,13 @@
+#pf .ct {
+    gap: 16px;
+    text-align: center;
+}
+
+#pf .ct img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+}
+
+#pf .ct img:last-child {
+    margin-right: 0;}
